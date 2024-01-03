@@ -1,5 +1,5 @@
 PowerShell (Windows) Kullan:
-```bath
+```batch
 irm https://deno.land/install.ps1 | iex
 ```
 
@@ -21,6 +21,6 @@ export { Application } from 'https://deno.land/x/oak/mod.ts';
 ```
 
 Konsol
-```bath
+```batch
 deno run --allow-net app.ts
 ```
